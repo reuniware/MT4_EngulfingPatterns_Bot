@@ -1,0 +1,385 @@
+Logging started at 20180430024500
+20180430053000 : Time = 2018.04.30 05:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.21342 ; Bid = 1.21329
+20180430053000 : EntrerALaVente: Ordre de vente #1 ouvert au prix du marché de 1.21329000 avec 0.10000000 Lots et StopLoss=1.21379000
+20180430071500 : Time = 2018.04.30 07:00:00 ; Bearish Engulfing Pattern ; Ask = 1.21303 ; Bid = 1.2129
+20180430071500 : FermerLesPositionsVendeuses: Profit/Perte pour position #1 (avant fermeture) = 2.14000000
+20180430071500 : EntrerALAchat: Ordre d'achat #2 ouvert au prix du marché de 1.21303000 avec 0.10000000 Lots et StopLoss=1.21253000
+20180430084500 : Time = 2018.04.30 08:30:00 ; Bearish Engulfing Pattern ; Ask = 1.21119 ; Bid = 1.21106
+20180430084500 : EntrerALAchat: Ordre d'achat #3 ouvert au prix du marché de 1.21119000 avec 0.10000000 Lots et StopLoss=1.21069000
+20180430154500 : Time = 2018.04.30 15:30:00 ; Bearish Engulfing Pattern ; Ask = 1.20681 ; Bid = 1.20668
+20180430154500 : EntrerALAchat: Ordre d'achat #4 ouvert au prix du marché de 1.20681000 avec 0.10000000 Lots et StopLoss=1.20631000
+20180501010000 : Time = 2018.05.01 00:45:00 ; Bearish Engulfing Pattern ; Ask = 1.20808 ; Bid = 1.20795
+20180501010000 : EntrerALAchat: Ordre d'achat #5 ouvert au prix du marché de 1.20808000 avec 0.10000000 Lots et StopLoss=1.20758000
+20180501021500 : Time = 2018.05.01 02:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.20781 ; Bid = 1.20768
+20180501021500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #2 (avant fermeture) = -44.30000000
+20180501021500 : EntrerALaVente: Ordre de vente #6 ouvert au prix du marché de 1.20768000 avec 0.10000000 Lots et StopLoss=1.20818000
+20180501070000 : Time = 2018.05.01 06:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.2062 ; Bid = 1.20607
+20180501070000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #3 (avant fermeture) = -42.45000000
+20180501070000 : EntrerALaVente: Ordre de vente #7 ouvert au prix du marché de 1.20607000 avec 0.10000000 Lots et StopLoss=1.20657000
+20180501084500 : Time = 2018.05.01 08:30:00 ; Bearish Engulfing Pattern ; Ask = 1.20386 ; Bid = 1.20373
+20180501084500 : EntrerALAchat: Ordre d'achat #8 ouvert au prix du marché de 1.20386000 avec 0.10000000 Lots et StopLoss=1.20336000
+20180501181500 : Time = 2018.05.01 18:00:00 ; Bearish Engulfing Pattern ; Ask = 1.19966 ; Bid = 1.19953
+20180501181500 : EntrerALAchat: Ordre d'achat #9 ouvert au prix du marché de 1.19966000 avec 0.10000000 Lots et StopLoss=1.19916000
+20180501200000 : Time = 2018.05.01 19:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19944 ; Bid = 1.19931
+20180501200000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #4 (avant fermeture) = -62.54000000
+20180501200000 : EntrerALaVente: Ordre de vente #10 ouvert au prix du marché de 1.19931000 avec 0.10000000 Lots et StopLoss=1.19981000
+20180501220000 : Time = 2018.05.01 21:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19938 ; Bid = 1.19925
+20180501220000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #5 (avant fermeture) = -73.63000000
+20180501220000 : EntrerALaVente: Ordre de vente #11 ouvert au prix du marché de 1.19925000 avec 0.10000000 Lots et StopLoss=1.19975000
+20180501234500 : Time = 2018.05.01 23:30:00 ; Bearish Engulfing Pattern ; Ask = 1.19909 ; Bid = 1.19896
+20180501234500 : FermerLesPositionsVendeuses: Profit/Perte pour position #6 (avant fermeture) = 71.64000000
+20180501234500 : EntrerALAchat: Ordre d'achat #12 ouvert au prix du marché de 1.19909000 avec 0.10000000 Lots et StopLoss=1.19859000
+20180502040000 : Time = 2018.05.02 03:45:00 ; Bearish Engulfing Pattern ; Ask = 1.20065 ; Bid = 1.20052
+20180502040000 : FermerLesPositionsVendeuses: Profit/Perte pour position #7 (avant fermeture) = 45.14000000
+20180502040000 : EntrerALAchat: Ordre d'achat #13 ouvert au prix du marché de 1.20065000 avec 0.10000000 Lots et StopLoss=1.20015000
+20180502090000 : Time = 2018.05.02 08:45:00 ; Bearish Engulfing Pattern ; Ask = 1.20007 ; Bid = 1.19994
+20180502090000 : EntrerALAchat: Ordre d'achat #14 ouvert au prix du marché de 1.20007000 avec 0.10000000 Lots et StopLoss=1.19957000
+20180502100000 : Time = 2018.05.02 09:45:00 ; Bearish Engulfing Pattern ; Ask = 1.20028 ; Bid = 1.20015
+20180502100000 : EntrerALAchat: Ordre d'achat #15 ouvert au prix du marché de 1.20028000 avec 0.10000000 Lots et StopLoss=1.19978000
+20180502144500 : Time = 2018.05.02 14:30:00 ; Bearish Engulfing Pattern ; Ask = 1.19594 ; Bid = 1.19581
+20180502144500 : EntrerALAchat: Ordre d'achat #16 ouvert au prix du marché de 1.19594000 avec 0.10000000 Lots et StopLoss=1.19544000
+20180503043000 : Time = 2018.05.03 04:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19868 ; Bid = 1.19855
+20180503043000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #8 (avant fermeture) = -44.30000000
+20180503043000 : EntrerALaVente: Ordre de vente #17 ouvert au prix du marché de 1.19855000 avec 0.10000000 Lots et StopLoss=1.19905000
+20180503050000 : Time = 2018.05.03 04:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19895 ; Bid = 1.19882
+20180503050000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #9 (avant fermeture) = -7.01000000
+20180503050000 : EntrerALaVente: Ordre de vente #18 ouvert au prix du marché de 1.19882000 avec 0.10000000 Lots et StopLoss=1.19932000
+20180503060000 : Time = 2018.05.03 05:45:00 ; Bearish Engulfing Pattern ; Ask = 1.19841 ; Bid = 1.19828
+20180503060000 : FermerLesPositionsVendeuses: Profit/Perte pour position #10 (avant fermeture) = 7.51000000
+20180503060000 : EntrerALAchat: Ordre d'achat #19 ouvert au prix du marché de 1.19841000 avec 0.10000000 Lots et StopLoss=1.19791000
+20180503063000 : Time = 2018.05.03 06:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19917 ; Bid = 1.19904
+20180503063000 : EntrerALaVente: Ordre de vente #20 ouvert au prix du marché de 1.19904000 avec 0.10000000 Lots et StopLoss=1.19954000
+20180503073000 : Time = 2018.05.03 07:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19953 ; Bid = 1.1994
+20180503073000 : EntrerALaVente: Ordre de vente #21 ouvert au prix du marché de 1.19940000 avec 0.10000000 Lots et StopLoss=1.19990000
+20180503090000 : Time = 2018.05.03 08:45:00 ; Bearish Engulfing Pattern ; Ask = 1.19865 ; Bid = 1.19852
+20180503090000 : FermerLesPositionsVendeuses: Profit/Perte pour position #11 (avant fermeture) = 5.01000000
+20180503090000 : EntrerALAchat: Ordre d'achat #22 ouvert au prix du marché de 1.19865000 avec 0.10000000 Lots et StopLoss=1.19815000
+20180503093000 : Time = 2018.05.03 09:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19996 ; Bid = 1.19983
+20180503093000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #12 (avant fermeture) = 6.17000000
+20180503093000 : EntrerALaVente: Ordre de vente #23 ouvert au prix du marché de 1.19983000 avec 0.10000000 Lots et StopLoss=1.20033000
+20180503124500 : Time = 2018.05.03 12:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19941 ; Bid = 1.19928
+20180503124500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #13 (avant fermeture) = -11.42000000
+20180503124500 : EntrerALaVente: Ordre de vente #24 ouvert au prix du marché de 1.19928000 avec 0.10000000 Lots et StopLoss=1.19978000
+20180503171500 : Time = 2018.05.03 17:00:00 ; Bearish Engulfing Pattern ; Ask = 1.19778 ; Bid = 1.19765
+20180503171500 : EntrerALAchat: Ordre d'achat #25 ouvert au prix du marché de 1.19778000 avec 0.10000000 Lots et StopLoss=1.19728000
+20180503201500 : Time = 2018.05.03 20:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.19908 ; Bid = 1.19895
+20180503201500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #14 (avant fermeture) = -9.34000000
+20180503201500 : EntrerALaVente: Ordre de vente #26 ouvert au prix du marché de 1.19895000 avec 0.10000000 Lots et StopLoss=1.19945000
+20180504010000 : Time = 2018.05.04 00:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19856 ; Bid = 1.19843
+20180504010000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #15 (avant fermeture) = -15.44000000
+20180504010000 : EntrerALaVente: Ordre de vente #27 ouvert au prix du marché de 1.19843000 avec 0.10000000 Lots et StopLoss=1.19893000
+20180504013000 : Time = 2018.05.04 01:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19906 ; Bid = 1.19893
+20180504013000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #16 (avant fermeture) = 24.94000000
+20180504013000 : EntrerALaVente: Ordre de vente #28 ouvert au prix du marché de 1.19893000 avec 0.10000000 Lots et StopLoss=1.19943000
+20180504091500 : Time = 2018.05.04 09:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.19702 ; Bid = 1.19689
+20180504091500 : EntrerALaVente: Ordre de vente #29 ouvert au prix du marché de 1.19689000 avec 0.10000000 Lots et StopLoss=1.19739000
+20180504103000 : Time = 2018.05.04 10:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19627 ; Bid = 1.19614
+20180504103000 : EntrerALaVente: Ordre de vente #30 ouvert au prix du marché de 1.19614000 avec 0.10000000 Lots et StopLoss=1.19664000
+20180504113000 : Time = 2018.05.04 11:15:00 ; Bearish Engulfing Pattern ; Ask = 1.1963 ; Bid = 1.19617
+20180504113000 : FermerLesPositionsVendeuses: Profit/Perte pour position #17 (avant fermeture) = 18.81000000
+20180504113000 : EntrerALAchat: Ordre d'achat #31 ouvert au prix du marché de 1.19630000 avec 0.10000000 Lots et StopLoss=1.19580000
+20180504124500 : Time = 2018.05.04 12:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19724 ; Bid = 1.19711
+20180504124500 : EntrerALaVente: Ordre de vente #32 ouvert au prix du marché de 1.19711000 avec 0.10000000 Lots et StopLoss=1.19761000
+20180504144500 : Time = 2018.05.04 14:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19496 ; Bid = 1.19483
+20180504144500 : EntrerALaVente: Ordre de vente #33 ouvert au prix du marché de 1.19483000 avec 0.10000000 Lots et StopLoss=1.19533000
+20180504150000 : Time = 2018.05.04 14:45:00 ; Bearish Engulfing Pattern ; Ask = 1.19295 ; Bid = 1.19282
+20180504150000 : FermerLesPositionsVendeuses: Profit/Perte pour position #18 (avant fermeture) = 49.21000000
+20180504150000 : EntrerALAchat: Ordre d'achat #34 ouvert au prix du marché de 1.19295000 avec 0.10000000 Lots et StopLoss=1.19245000
+20180504154500 : Time = 2018.05.04 15:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19404 ; Bid = 1.19391
+20180504154500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #19 (avant fermeture) = -37.69000000
+20180504154500 : EntrerALaVente: Ordre de vente #35 ouvert au prix du marché de 1.19391000 avec 0.10000000 Lots et StopLoss=1.19441000
+20180504164500 : Time = 2018.05.04 16:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19523 ; Bid = 1.1951
+20180504164500 : EntrerALaVente: Ordre de vente #36 ouvert au prix du marché de 1.19510000 avec 0.10000000 Lots et StopLoss=1.19560000
+20180504174500 : Time = 2018.05.04 17:30:00 ; Bearish Engulfing Pattern ; Ask = 1.19545 ; Bid = 1.19532
+20180504174500 : FermerLesPositionsVendeuses: Profit/Perte pour position #20 (avant fermeture) = 30.03000000
+20180504174500 : EntrerALAchat: Ordre d'achat #37 ouvert au prix du marché de 1.19545000 avec 0.10000000 Lots et StopLoss=1.19495000
+20180504200000 : Time = 2018.05.04 19:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19584 ; Bid = 1.19571
+20180504200000 : EntrerALaVente: Ordre de vente #38 ouvert au prix du marché de 1.19571000 avec 0.10000000 Lots et StopLoss=1.19621000
+20180504203000 : Time = 2018.05.04 20:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19595 ; Bid = 1.19582
+20180504203000 : EntrerALaVente: Ordre de vente #39 ouvert au prix du marché de 1.19582000 avec 0.10000000 Lots et StopLoss=1.19632000
+20180507001500 : Time = 2018.05.07 00:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.19624 ; Bid = 1.19611
+20180507001500 : EntrerALaVente: Ordre de vente #40 ouvert au prix du marché de 1.19611000 avec 0.10000000 Lots et StopLoss=1.19661000
+20180507021500 : Time = 2018.05.07 02:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.19729 ; Bid = 1.19716
+20180507021500 : EntrerALaVente: Ordre de vente #41 ouvert au prix du marché de 1.19716000 avec 0.10000000 Lots et StopLoss=1.19766000
+20180507064500 : Time = 2018.05.07 06:30:00 ; Bearish Engulfing Pattern ; Ask = 1.19407 ; Bid = 1.19394
+20180507064500 : FermerLesPositionsVendeuses: Profit/Perte pour position #21 (avant fermeture) = 44.64000000
+20180507064500 : EntrerALAchat: Ordre d'achat #42 ouvert au prix du marché de 1.19407000 avec 0.10000000 Lots et StopLoss=1.19357000
+20180507093000 : Time = 2018.05.07 09:15:00 ; Bearish Engulfing Pattern ; Ask = 1.19303 ; Bid = 1.1929
+20180507093000 : EntrerALAchat: Ordre d'achat #43 ouvert au prix du marché de 1.19303000 avec 0.10000000 Lots et StopLoss=1.19253000
+20180507103000 : Time = 2018.05.07 10:15:00 ; Bearish Engulfing Pattern ; Ask = 1.19265 ; Bid = 1.19252
+20180507103000 : EntrerALAchat: Ordre d'achat #44 ouvert au prix du marché de 1.19265000 avec 0.10000000 Lots et StopLoss=1.19215000
+20180507141500 : Time = 2018.05.07 14:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.19203 ; Bid = 1.1919
+20180507141500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #22 (avant fermeture) = -56.63000000
+20180507141500 : EntrerALaVente: Ordre de vente #45 ouvert au prix du marché de 1.19190000 avec 0.10000000 Lots et StopLoss=1.19240000
+20180507144500 : Time = 2018.05.07 14:30:00 ; Bearish Engulfing Pattern ; Ask = 1.19203 ; Bid = 1.1919
+20180507144500 : FermerLesPositionsVendeuses: Profit/Perte pour position #23 (avant fermeture) = 65.43000000
+20180507144500 : EntrerALAchat: Ordre d'achat #46 ouvert au prix du marché de 1.19203000 avec 0.10000000 Lots et StopLoss=1.19153000
+20180507203000 : Time = 2018.05.07 20:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19265 ; Bid = 1.19252
+20180507203000 : EntrerALaVente: Ordre de vente #47 ouvert au prix du marché de 1.19252000 avec 0.10000000 Lots et StopLoss=1.19302000
+20180508030000 : Time = 2018.05.08 02:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19262 ; Bid = 1.19249
+20180508030000 : EntrerALaVente: Ordre de vente #48 ouvert au prix du marché de 1.19249000 avec 0.10000000 Lots et StopLoss=1.19299000
+20180508033000 : Time = 2018.05.08 03:15:00 ; Bearish Engulfing Pattern ; Ask = 1.19231 ; Bid = 1.19218
+20180508033000 : FermerLesPositionsVendeuses: Profit/Perte pour position #24 (avant fermeture) = 58.46000000
+20180508033000 : EntrerALAchat: Ordre d'achat #49 ouvert au prix du marché de 1.19231000 avec 0.10000000 Lots et StopLoss=1.19181000
+20180508044500 : Time = 2018.05.08 04:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19152 ; Bid = 1.19139
+20180508044500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #25 (avant fermeture) = -53.63000000
+20180508044500 : EntrerALaVente: Ordre de vente #50 ouvert au prix du marché de 1.19139000 avec 0.10000000 Lots et StopLoss=1.19189000
+20180508070000 : Time = 2018.05.08 06:45:00 ; Bearish Engulfing Pattern ; Ask = 1.19191 ; Bid = 1.19178
+20180508070000 : FermerLesPositionsVendeuses: Profit/Perte pour position #26 (avant fermeture) = 59.06000000
+20180508070000 : EntrerALAchat: Ordre d'achat #51 ouvert au prix du marché de 1.19191000 avec 0.10000000 Lots et StopLoss=1.19141000
+20180508093000 : Time = 2018.05.08 09:15:00 ; Bearish Engulfing Pattern ; Ask = 1.18882 ; Bid = 1.18869
+20180508093000 : FermerLesPositionsVendeuses: Profit/Perte pour position #27 (avant fermeture) = 80.84000000
+20180508093000 : EntrerALAchat: Ordre d'achat #52 ouvert au prix du marché de 1.18882000 avec 0.10000000 Lots et StopLoss=1.18832000
+20180508103000 : Time = 2018.05.08 10:15:00 ; Bearish Engulfing Pattern ; Ask = 1.18729 ; Bid = 1.18716
+20180508103000 : FermerLesPositionsVendeuses: Profit/Perte pour position #28 (avant fermeture) = 98.04000000
+20180508103000 : EntrerALAchat: Ordre d'achat #53 ouvert au prix du marché de 1.18729000 avec 0.10000000 Lots et StopLoss=1.18679000
+20180508123000 : Time = 2018.05.08 12:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.18746 ; Bid = 1.18733
+20180508123000 : EntrerALaVente: Ordre de vente #54 ouvert au prix du marché de 1.18733000 avec 0.10000000 Lots et StopLoss=1.18783000
+20180508144500 : Time = 2018.05.08 14:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.18542 ; Bid = 1.18529
+20180508144500 : EntrerALaVente: Ordre de vente #55 ouvert au prix du marché de 1.18529000 avec 0.10000000 Lots et StopLoss=1.18579000
+20180508174500 : Time = 2018.05.08 17:30:00 ; Bearish Engulfing Pattern ; Ask = 1.18766 ; Bid = 1.18753
+20180508174500 : FermerLesPositionsVendeuses: Profit/Perte pour position #29 (avant fermeture) = 77.72000000
+20180508174500 : EntrerALAchat: Ordre d'achat #56 ouvert au prix du marché de 1.18766000 avec 0.10000000 Lots et StopLoss=1.18716000
+20180508184500 : Time = 2018.05.08 18:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.18771 ; Bid = 1.18758
+20180508184500 : EntrerALaVente: Ordre de vente #57 ouvert au prix du marché de 1.18758000 avec 0.10000000 Lots et StopLoss=1.18808000
+20180508190000 : Time = 2018.05.08 18:45:00 ; Bearish Engulfing Pattern ; Ask = 1.18586 ; Bid = 1.18573
+20180508190000 : FermerLesPositionsVendeuses: Profit/Perte pour position #30 (avant fermeture) = 86.69000000
+20180508190000 : EntrerALAchat: Ordre d'achat #58 ouvert au prix du marché de 1.18586000 avec 0.10000000 Lots et StopLoss=1.18536000
+20180508200000 : Time = 2018.05.08 19:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.18647 ; Bid = 1.18634
+20180508200000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #31 (avant fermeture) = -83.96000000
+20180508200000 : EntrerALaVente: Ordre de vente #59 ouvert au prix du marché de 1.18634000 avec 0.10000000 Lots et StopLoss=1.18684000
+20180509003000 : Time = 2018.05.09 00:15:00 ; Bearish Engulfing Pattern ; Ask = 1.18661 ; Bid = 1.18648
+20180509003000 : FermerLesPositionsVendeuses: Profit/Perte pour position #32 (avant fermeture) = 88.49000000
+20180509003000 : EntrerALAchat: Ordre d'achat #60 ouvert au prix du marché de 1.18661000 avec 0.10000000 Lots et StopLoss=1.18611000
+20180509014500 : Time = 2018.05.09 01:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.18487 ; Bid = 1.18474
+20180509014500 : EntrerALaVente: Ordre de vente #61 ouvert au prix du marché de 1.18474000 avec 0.10000000 Lots et StopLoss=1.18524000
+20180509060000 : Time = 2018.05.09 05:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.18522 ; Bid = 1.18509
+20180509060000 : EntrerALaVente: Ordre de vente #62 ouvert au prix du marché de 1.18509000 avec 0.10000000 Lots et StopLoss=1.18559000
+20180509083000 : Time = 2018.05.09 08:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.18482 ; Bid = 1.18469
+20180509083000 : EntrerALaVente: Ordre de vente #63 ouvert au prix du marché de 1.18469000 avec 0.10000000 Lots et StopLoss=1.18519000
+20180509100000 : Time = 2018.05.09 09:45:00 ; Bearish Engulfing Pattern ; Ask = 1.18563 ; Bid = 1.1855
+20180509100000 : FermerLesPositionsVendeuses: Profit/Perte pour position #33 (avant fermeture) = 77.60000000
+20180509100000 : EntrerALAchat: Ordre d'achat #64 ouvert au prix du marché de 1.18563000 avec 0.10000000 Lots et StopLoss=1.18513000
+20180509131500 : Time = 2018.05.09 13:00:00 ; Bearish Engulfing Pattern ; Ask = 1.18814 ; Bid = 1.18801
+20180509131500 : EntrerALAchat: Ordre d'achat #65 ouvert au prix du marché de 1.18814000 avec 0.10000000 Lots et StopLoss=1.18764000
+20180509164500 : Time = 2018.05.09 16:30:00 ; Bearish Engulfing Pattern ; Ask = 1.18488 ; Bid = 1.18475
+20180509164500 : EntrerALAchat: Ordre d'achat #66 ouvert au prix du marché de 1.18488000 avec 0.10000000 Lots et StopLoss=1.18438000
+20180509174500 : Time = 2018.05.09 17:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.18624 ; Bid = 1.18611
+20180509174500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #34 (avant fermeture) = -57.67000000
+20180509174500 : EntrerALaVente: Ordre de vente #67 ouvert au prix du marché de 1.18611000 avec 0.10000000 Lots et StopLoss=1.18661000
+20180509220000 : Time = 2018.05.09 21:45:00 ; Bearish Engulfing Pattern ; Ask = 1.18522 ; Bid = 1.18509
+20180509220000 : FermerLesPositionsVendeuses: Profit/Perte pour position #35 (avant fermeture) = 73.32000000
+20180509220000 : EntrerALAchat: Ordre d'achat #68 ouvert au prix du marché de 1.18522000 avec 0.10000000 Lots et StopLoss=1.18472000
+20180509234500 : Time = 2018.05.09 23:30:00 ; Bearish Engulfing Pattern ; Ask = 1.18533 ; Bid = 1.1852
+20180509234500 : FermerLesPositionsVendeuses: Profit/Perte pour position #36 (avant fermeture) = 82.42000000
+20180509234500 : EntrerALAchat: Ordre d'achat #69 ouvert au prix du marché de 1.18533000 avec 0.10000000 Lots et StopLoss=1.18483000
+20180510014500 : Time = 2018.05.10 01:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.18646 ; Bid = 1.18633
+20180510014500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #37 (avant fermeture) = -76.88000000
+20180510014500 : EntrerALaVente: Ordre de vente #70 ouvert au prix du marché de 1.18633000 avec 0.10000000 Lots et StopLoss=1.18683000
+20180510061500 : Time = 2018.05.10 06:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.18681 ; Bid = 1.18668
+20180510061500 : EntrerALaVente: Ordre de vente #71 ouvert au prix du marché de 1.18668000 avec 0.10000000 Lots et StopLoss=1.18718000
+20180510080000 : Time = 2018.05.10 07:45:00 ; Bearish Engulfing Pattern ; Ask = 1.18607 ; Bid = 1.18594
+20180510080000 : FermerLesPositionsVendeuses: Profit/Perte pour position #38 (avant fermeture) = 81.28000000
+20180510080000 : EntrerALAchat: Ordre d'achat #72 ouvert au prix du marché de 1.18607000 avec 0.10000000 Lots et StopLoss=1.18557000
+20180510134500 : Time = 2018.05.10 13:30:00 ; Bearish Engulfing Pattern ; Ask = 1.19226 ; Bid = 1.19213
+20180510134500 : FermerLesPositionsVendeuses: Profit/Perte pour position #39 (avant fermeture) = 29.86000000
+20180510134500 : EntrerALAchat: Ordre d'achat #73 ouvert au prix du marché de 1.19226000 avec 0.10000000 Lots et StopLoss=1.19176000
+20180510191500 : Time = 2018.05.10 19:00:00 ; Bearish Engulfing Pattern ; Ask = 1.19239 ; Bid = 1.19226
+20180510191500 : FermerLesPositionsVendeuses: Profit/Perte pour position #40 (avant fermeture) = 31.20000000
+20180510191500 : EntrerALAchat: Ordre d'achat #74 ouvert au prix du marché de 1.19239000 avec 0.10000000 Lots et StopLoss=1.19189000
+20180510193000 : Time = 2018.05.10 19:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.19295 ; Bid = 1.19282
+20180510193000 : EntrerALaVente: Ordre de vente #75 ouvert au prix du marché de 1.19282000 avec 0.10000000 Lots et StopLoss=1.19332000
+20180511010000 : Time = 2018.05.11 00:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19245 ; Bid = 1.19232
+20180511010000 : EntrerALaVente: Ordre de vente #76 ouvert au prix du marché de 1.19232000 avec 0.10000000 Lots et StopLoss=1.19282000
+20180511024500 : Time = 2018.05.11 02:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19191 ; Bid = 1.19178
+20180511024500 : EntrerALaVente: Ordre de vente #77 ouvert au prix du marché de 1.19178000 avec 0.10000000 Lots et StopLoss=1.19228000
+20180511151500 : Time = 2018.05.11 15:00:00 ; Bearish Engulfing Pattern ; Ask = 1.19392 ; Bid = 1.19379
+20180511151500 : FermerLesPositionsVendeuses: Profit/Perte pour position #41 (avant fermeture) = 27.14000000
+20180511151500 : EntrerALAchat: Ordre d'achat #78 ouvert au prix du marché de 1.19392000 avec 0.10000000 Lots et StopLoss=1.19342000
+20180511170000 : Time = 2018.05.11 16:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19592 ; Bid = 1.19579
+20180511170000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #42 (avant fermeture) = 14.38000000
+20180511170000 : EntrerALaVente: Ordre de vente #79 ouvert au prix du marché de 1.19579000 avec 0.10000000 Lots et StopLoss=1.19629000
+20180511190000 : Time = 2018.05.11 18:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19452 ; Bid = 1.19439
+20180511190000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #43 (avant fermeture) = 11.39000000
+20180511190000 : EntrerALaVente: Ordre de vente #80 ouvert au prix du marché de 1.19439000 avec 0.10000000 Lots et StopLoss=1.19489000
+20180513211500 : Time = 2018.05.13 21:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.19461 ; Bid = 1.19448
+20180513211500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #44 (avant fermeture) = 15.32000000
+20180513211500 : EntrerALaVente: Ordre de vente #81 ouvert au prix du marché de 1.19448000 avec 0.10000000 Lots et StopLoss=1.19498000
+20180513221500 : Time = 2018.05.13 22:00:00 ; Bearish Engulfing Pattern ; Ask = 1.19444 ; Bid = 1.19431
+20180513221500 : FermerLesPositionsVendeuses: Profit/Perte pour position #45 (avant fermeture) = -21.27000000
+20180513221500 : EntrerALAchat: Ordre d'achat #82 ouvert au prix du marché de 1.19444000 avec 0.10000000 Lots et StopLoss=1.19394000
+20180513230000 : Time = 2018.05.13 22:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19488 ; Bid = 1.19475
+20180513230000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #46 (avant fermeture) = 22.77000000
+20180513230000 : EntrerALaVente: Ordre de vente #83 ouvert au prix du marché de 1.19475000 avec 0.10000000 Lots et StopLoss=1.19525000
+20180513231500 : Time = 2018.05.13 23:00:00 ; Bearish Engulfing Pattern ; Ask = 1.19469 ; Bid = 1.19456
+20180513231500 : FermerLesPositionsVendeuses: Profit/Perte pour position #47 (avant fermeture) = -18.16000000
+20180513231500 : EntrerALAchat: Ordre d'achat #84 ouvert au prix du marché de 1.19469000 avec 0.10000000 Lots et StopLoss=1.19419000
+20180514024500 : Time = 2018.05.14 02:30:00 ; Bearish Engulfing Pattern ; Ask = 1.19612 ; Bid = 1.19599
+20180514024500 : FermerLesPositionsVendeuses: Profit/Perte pour position #48 (avant fermeture) = -30.35000000
+20180514024500 : EntrerALAchat: Ordre d'achat #85 ouvert au prix du marché de 1.19612000 avec 0.10000000 Lots et StopLoss=1.19562000
+20180514081500 : Time = 2018.05.14 08:00:00 ; Bearish Engulfing Pattern ; Ask = 1.19767 ; Bid = 1.19754
+20180514081500 : EntrerALAchat: Ordre d'achat #86 ouvert au prix du marché de 1.19767000 avec 0.10000000 Lots et StopLoss=1.19717000
+20180514084500 : Time = 2018.05.14 08:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.19801 ; Bid = 1.19788
+20180514084500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #49 (avant fermeture) = 46.50000000
+20180514084500 : EntrerALaVente: Ordre de vente #87 ouvert au prix du marché de 1.19788000 avec 0.10000000 Lots et StopLoss=1.19838000
+20180514131500 : Time = 2018.05.14 13:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.199 ; Bid = 1.19887
+20180514131500 : EntrerALaVente: Ordre de vente #88 ouvert au prix du marché de 1.19887000 avec 0.10000000 Lots et StopLoss=1.19937000
+20180514170000 : Time = 2018.05.14 16:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19775 ; Bid = 1.19762
+20180514170000 : EntrerALaVente: Ordre de vente #89 ouvert au prix du marché de 1.19762000 avec 0.10000000 Lots et StopLoss=1.19812000
+20180515060000 : Time = 2018.05.15 05:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.19216 ; Bid = 1.19203
+20180515060000 : EntrerALaVente: Ordre de vente #90 ouvert au prix du marché de 1.19203000 avec 0.10000000 Lots et StopLoss=1.19253000
+20180515073000 : Time = 2018.05.15 07:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.1934 ; Bid = 1.19327
+20180515073000 : EntrerALaVente: Ordre de vente #91 ouvert au prix du marché de 1.19327000 avec 0.10000000 Lots et StopLoss=1.19377000
+20180515091500 : Time = 2018.05.15 09:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.19254 ; Bid = 1.19241
+20180515091500 : EntrerALaVente: Ordre de vente #92 ouvert au prix du marché de 1.19241000 avec 0.10000000 Lots et StopLoss=1.19291000
+20180515163000 : Time = 2018.05.15 16:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.18752 ; Bid = 1.18739
+20180515163000 : EntrerALaVente: Ordre de vente #93 ouvert au prix du marché de 1.18739000 avec 0.10000000 Lots et StopLoss=1.18789000
+20180515174500 : Time = 2018.05.15 17:30:00 ; Bearish Engulfing Pattern ; Ask = 1.18556 ; Bid = 1.18543
+20180515174500 : FermerLesPositionsVendeuses: Profit/Perte pour position #50 (avant fermeture) = 49.18000000
+20180515174500 : EntrerALAchat: Ordre d'achat #94 ouvert au prix du marché de 1.18556000 avec 0.10000000 Lots et StopLoss=1.18506000
+20180515184500 : Time = 2018.05.15 18:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.18555 ; Bid = 1.18542
+20180515184500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #51 (avant fermeture) = -54.75000000
+20180515184500 : EntrerALaVente: Ordre de vente #95 ouvert au prix du marché de 1.18542000 avec 0.10000000 Lots et StopLoss=1.18592000
+20180515194500 : Time = 2018.05.15 19:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.1847 ; Bid = 1.18457
+20180515194500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #52 (avant fermeture) = -35.88000000
+20180515194500 : EntrerALaVente: Ordre de vente #96 ouvert au prix du marché de 1.18457000 avec 0.10000000 Lots et StopLoss=1.18507000
+20180515203000 : Time = 2018.05.15 20:15:00 ; Bearish Engulfing Pattern ; Ask = 1.1843 ; Bid = 1.18417
+20180515203000 : EntrerALAchat: Ordre d'achat #97 ouvert au prix du marché de 1.18430000 avec 0.10000000 Lots et StopLoss=1.18380000
+20180515211500 : Time = 2018.05.15 21:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.18442 ; Bid = 1.18429
+20180515211500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #53 (avant fermeture) = -25.33000000
+20180515211500 : EntrerALaVente: Ordre de vente #98 ouvert au prix du marché de 1.18429000 avec 0.10000000 Lots et StopLoss=1.18479000
+20180516000000 : Time = 2018.05.15 23:45:00 ; Bearish Engulfing Pattern ; Ask = 1.18218 ; Bid = 1.18205
+20180516000000 : FermerLesPositionsVendeuses: Profit/Perte pour position #54 (avant fermeture) = 43.56000000
+20180516000000 : EntrerALAchat: Ordre d'achat #99 ouvert au prix du marché de 1.18218000 avec 0.10000000 Lots et StopLoss=1.18168000
+20180516021500 : Time = 2018.05.16 02:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.18263 ; Bid = 1.1825
+20180516021500 : EntrerALaVente: Ordre de vente #100 ouvert au prix du marché de 1.18250000 avec 0.10000000 Lots et StopLoss=1.18300000
+20180516031500 : Time = 2018.05.16 03:00:00 ; Bearish Engulfing Pattern ; Ask = 1.18264 ; Bid = 1.18251
+20180516031500 : FermerLesPositionsVendeuses: Profit/Perte pour position #55 (avant fermeture) = 22.41000000
+20180516031500 : EntrerALAchat: Ordre d'achat #101 ouvert au prix du marché de 1.18264000 avec 0.10000000 Lots et StopLoss=1.18214000
+20180516101500 : Time = 2018.05.16 10:00:00 ; Bearish Engulfing Pattern ; Ask = 1.17994 ; Bid = 1.17981
+20180516101500 : EntrerALAchat: Ordre d'achat #102 ouvert au prix du marché de 1.17994000 avec 0.10000000 Lots et StopLoss=1.17944000
+20180516143000 : Time = 2018.05.16 14:15:00 ; Bearish Engulfing Pattern ; Ask = 1.17962 ; Bid = 1.17949
+20180516143000 : EntrerALAchat: Ordre d'achat #103 ouvert au prix du marché de 1.17962000 avec 0.10000000 Lots et StopLoss=1.17912000
+20180516160000 : Time = 2018.05.16 15:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.17879 ; Bid = 1.17866
+20180516160000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #56 (avant fermeture) = -76.36000000
+20180516160000 : EntrerALaVente: Ordre de vente #104 ouvert au prix du marché de 1.17866000 avec 0.10000000 Lots et StopLoss=1.17916000
+20180516211500 : Time = 2018.05.16 21:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.18121 ; Bid = 1.18108
+20180516211500 : EntrerALaVente: Ordre de vente #105 ouvert au prix du marché de 1.18108000 avec 0.10000000 Lots et StopLoss=1.18158000
+20180516214500 : Time = 2018.05.16 21:30:00 ; Bearish Engulfing Pattern ; Ask = 1.1811 ; Bid = 1.18097
+20180516214500 : FermerLesPositionsVendeuses: Profit/Perte pour position #57 (avant fermeture) = 54.86000000
+20180516214500 : EntrerALAchat: Ordre d'achat #106 ouvert au prix du marché de 1.18110000 avec 0.10000000 Lots et StopLoss=1.18060000
+20180517000000 : Time = 2018.05.16 23:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.1816 ; Bid = 1.18147
+20180517000000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #58 (avant fermeture) = -37.16000000
+20180517000000 : EntrerALaVente: Ordre de vente #107 ouvert au prix du marché de 1.18147000 avec 0.10000000 Lots et StopLoss=1.18197000
+20180517021500 : Time = 2018.05.17 02:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.18334 ; Bid = 1.18321
+20180517021500 : EntrerALaVente: Ordre de vente #108 ouvert au prix du marché de 1.18321000 avec 0.10000000 Lots et StopLoss=1.18371000
+20180517041500 : Time = 2018.05.17 04:00:00 ; Bearish Engulfing Pattern ; Ask = 1.18269 ; Bid = 1.18256
+20180517041500 : FermerLesPositionsVendeuses: Profit/Perte pour position #59 (avant fermeture) = 30.86000000
+20180517041500 : EntrerALAchat: Ordre d'achat #109 ouvert au prix du marché de 1.18269000 avec 0.10000000 Lots et StopLoss=1.18219000
+20180517053000 : Time = 2018.05.17 05:15:00 ; Bearish Engulfing Pattern ; Ask = 1.182 ; Bid = 1.18187
+20180517053000 : EntrerALAchat: Ordre d'achat #110 ouvert au prix du marché de 1.18200000 avec 0.10000000 Lots et StopLoss=1.18150000
+20180517070000 : Time = 2018.05.17 06:45:00 ; Bearish Engulfing Pattern ; Ask = 1.18039 ; Bid = 1.18026
+20180517070000 : EntrerALAchat: Ordre d'achat #111 ouvert au prix du marché de 1.18039000 avec 0.10000000 Lots et StopLoss=1.17989000
+20180517170000 : Time = 2018.05.17 16:45:00 ; Bearish Engulfing Pattern ; Ask = 1.18057 ; Bid = 1.18044
+20180517170000 : EntrerALAchat: Ordre d'achat #112 ouvert au prix du marché de 1.18057000 avec 0.10000000 Lots et StopLoss=1.18007000
+20180517224500 : Time = 2018.05.17 22:30:00 ; Bearish Engulfing Pattern ; Ask = 1.1797 ; Bid = 1.17957
+20180517224500 : EntrerALAchat: Ordre d'achat #113 ouvert au prix du marché de 1.17970000 avec 0.10000000 Lots et StopLoss=1.17920000
+20180518010000 : Time = 2018.05.18 00:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.18067 ; Bid = 1.18054
+20180518010000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #60 (avant fermeture) = -51.42000000
+20180518010000 : EntrerALaVente: Ordre de vente #114 ouvert au prix du marché de 1.18054000 avec 0.10000000 Lots et StopLoss=1.18104000
+20180518013000 : Time = 2018.05.18 01:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.18082 ; Bid = 1.18069
+20180518013000 : EntrerALaVente: Ordre de vente #115 ouvert au prix du marché de 1.18069000 avec 0.10000000 Lots et StopLoss=1.18119000
+20180518014500 : Time = 2018.05.18 01:30:00 ; Bearish Engulfing Pattern ; Ask = 1.18012 ; Bid = 1.17999
+20180518014500 : FermerLesPositionsVendeuses: Profit/Perte pour position #61 (avant fermeture) = 39.15000000
+20180518014500 : EntrerALAchat: Ordre d'achat #116 ouvert au prix du marché de 1.18012000 avec 0.10000000 Lots et StopLoss=1.17962000
+20180518070000 : Time = 2018.05.18 06:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.18176 ; Bid = 1.18163
+20180518070000 : EntrerALaVente: Ordre de vente #117 ouvert au prix du marché de 1.18163000 avec 0.10000000 Lots et StopLoss=1.18213000
+20180518101500 : Time = 2018.05.18 10:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.17855 ; Bid = 1.17842
+20180518101500 : EntrerALaVente: Ordre de vente #118 ouvert au prix du marché de 1.17842000 avec 0.10000000 Lots et StopLoss=1.17892000
+20180518124500 : Time = 2018.05.18 12:30:00 ; Bearish Engulfing Pattern ; Ask = 1.17798 ; Bid = 1.17785
+20180518124500 : FermerLesPositionsVendeuses: Profit/Perte pour position #62 (avant fermeture) = 60.36000000
+20180518124500 : EntrerALAchat: Ordre d'achat #119 ouvert au prix du marché de 1.17798000 avec 0.10000000 Lots et StopLoss=1.17748000
+20180518154500 : Time = 2018.05.18 15:30:00 ; Bearish Engulfing Pattern ; Ask = 1.1769 ; Bid = 1.17677
+20180518154500 : FermerLesPositionsVendeuses: Profit/Perte pour position #63 (avant fermeture) = 66.19000000
+20180518154500 : EntrerALAchat: Ordre d'achat #120 ouvert au prix du marché de 1.17690000 avec 0.10000000 Lots et StopLoss=1.17640000
+20180520211500 : Time = 2018.05.20 21:00:00 ; Bearish Engulfing Pattern ; Ask = 1.17683 ; Bid = 1.1767
+20180520211500 : EntrerALAchat: Ordre d'achat #121 ouvert au prix du marché de 1.17683000 avec 0.10000000 Lots et StopLoss=1.17633000
+20180521021500 : Time = 2018.05.21 02:00:00 ; Bearish Engulfing Pattern ; Ask = 1.17574 ; Bid = 1.17561
+20180521021500 : EntrerALAchat: Ordre d'achat #122 ouvert au prix du marché de 1.17574000 avec 0.10000000 Lots et StopLoss=1.17524000
+20180521061500 : Time = 2018.05.21 06:00:00 ; Bearish Engulfing Pattern ; Ask = 1.17424 ; Bid = 1.17411
+20180521061500 : EntrerALAchat: Ordre d'achat #123 ouvert au prix du marché de 1.17424000 avec 0.10000000 Lots et StopLoss=1.17374000
+20180521083000 : Time = 2018.05.21 08:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.17449 ; Bid = 1.17436
+20180521083000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #64 (avant fermeture) = -95.97000000
+20180521083000 : EntrerALaVente: Ordre de vente #124 ouvert au prix du marché de 1.17436000 avec 0.10000000 Lots et StopLoss=1.17486000
+20180521133000 : Time = 2018.05.21 13:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.17744 ; Bid = 1.17731
+20180521133000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #65 (avant fermeture) = -91.99000000
+20180521133000 : EntrerALaVente: Ordre de vente #125 ouvert au prix du marché de 1.17731000 avec 0.10000000 Lots et StopLoss=1.17781000
+20180521233000 : Time = 2018.05.21 23:15:00 ; Bearish Engulfing Pattern ; Ask = 1.17958 ; Bid = 1.17945
+20180521233000 : EntrerALAchat: Ordre d'achat #126 ouvert au prix du marché de 1.17958000 avec 0.10000000 Lots et StopLoss=1.17908000
+20180522083000 : Time = 2018.05.22 08:15:00 ; Bearish Engulfing Pattern ; Ask = 1.18136 ; Bid = 1.18123
+20180522083000 : EntrerALAchat: Ordre d'achat #127 ouvert au prix du marché de 1.18136000 avec 0.10000000 Lots et StopLoss=1.18086000
+20180522100000 : Time = 2018.05.22 09:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.18246 ; Bid = 1.18233
+20180522100000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #66 (avant fermeture) = -21.57000000
+20180522100000 : EntrerALaVente: Ordre de vente #128 ouvert au prix du marché de 1.18233000 avec 0.10000000 Lots et StopLoss=1.18283000
+20180522140000 : Time = 2018.05.22 13:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.17906 ; Bid = 1.17893
+20180522140000 : EntrerALaVente: Ordre de vente #129 ouvert au prix du marché de 1.17893000 avec 0.10000000 Lots et StopLoss=1.17943000
+20180522141500 : Time = 2018.05.22 14:00:00 ; Bearish Engulfing Pattern ; Ask = 1.17811 ; Bid = 1.17798
+20180522141500 : FermerLesPositionsVendeuses: Profit/Perte pour position #67 (avant fermeture) = 67.91000000
+20180522141500 : EntrerALAchat: Ordre d'achat #130 ouvert au prix du marché de 1.17811000 avec 0.10000000 Lots et StopLoss=1.17761000
+20180522221500 : Time = 2018.05.22 22:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.1783 ; Bid = 1.17817
+20180522221500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #68 (avant fermeture) = -59.84000000
+20180522221500 : EntrerALaVente: Ordre de vente #131 ouvert au prix du marché de 1.17817000 avec 0.10000000 Lots et StopLoss=1.17867000
+20180523004500 : Time = 2018.05.23 00:30:00 ; Bearish Engulfing Pattern ; Ask = 1.17833 ; Bid = 1.1782
+20180523004500 : EntrerALAchat: Ordre d'achat #132 ouvert au prix du marché de 1.17833000 avec 0.10000000 Lots et StopLoss=1.17783000
+20180523023000 : Time = 2018.05.23 02:15:00 ; Bearish Engulfing Pattern ; Ask = 1.1763 ; Bid = 1.17617
+20180523023000 : EntrerALAchat: Ordre d'achat #133 ouvert au prix du marché de 1.17630000 avec 0.10000000 Lots et StopLoss=1.17580000
+20180523033000 : Time = 2018.05.23 03:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.17559 ; Bid = 1.17546
+20180523033000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #69 (avant fermeture) = -83.97000000
+20180523033000 : EntrerALaVente: Ordre de vente #134 ouvert au prix du marché de 1.17546000 avec 0.10000000 Lots et StopLoss=1.17596000
+20180523060000 : Time = 2018.05.23 05:45:00 ; Bearish Engulfing Pattern ; Ask = 1.17641 ; Bid = 1.17628
+20180523060000 : FermerLesPositionsVendeuses: Profit/Perte pour position #70 (avant fermeture) = 84.32000000
+20180523060000 : EntrerALAchat: Ordre d'achat #135 ouvert au prix du marché de 1.17641000 avec 0.10000000 Lots et StopLoss=1.17591000
+20180523081500 : Time = 2018.05.23 08:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.17192 ; Bid = 1.17179
+20180523081500 : EntrerALaVente: Ordre de vente #136 ouvert au prix du marché de 1.17179000 avec 0.10000000 Lots et StopLoss=1.17229000
+20180523104500 : Time = 2018.05.23 10:30:00 ; Bearish Engulfing Pattern ; Ask = 1.17264 ; Bid = 1.17251
+20180523104500 : FermerLesPositionsVendeuses: Profit/Perte pour position #71 (avant fermeture) = 119.73000000
+20180523104500 : EntrerALAchat: Ordre d'achat #137 ouvert au prix du marché de 1.17264000 avec 0.10000000 Lots et StopLoss=1.17214000
+20180523133000 : Time = 2018.05.23 13:15:00 ; Bullish Engulfing Pattern  ; Ask = 1.17109 ; Bid = 1.17096
+20180523133000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #72 (avant fermeture) = -129.04000000
+20180523133000 : EntrerALaVente: Ordre de vente #138 ouvert au prix du marché de 1.17096000 avec 0.10000000 Lots et StopLoss=1.17146000
+20180523174500 : Time = 2018.05.23 17:30:00 ; Bearish Engulfing Pattern ; Ask = 1.16814 ; Bid = 1.16801
+20180523174500 : EntrerALAchat: Ordre d'achat #139 ouvert au prix du marché de 1.16814000 avec 0.10000000 Lots et StopLoss=1.16764000
+20180523190000 : Time = 2018.05.23 18:45:00 ; Bearish Engulfing Pattern ; Ask = 1.16986 ; Bid = 1.16973
+20180523190000 : EntrerALAchat: Ordre d'achat #140 ouvert au prix du marché de 1.16986000 avec 0.10000000 Lots et StopLoss=1.16936000
+20180523201500 : Time = 2018.05.23 20:00:00 ; Bearish Engulfing Pattern ; Ask = 1.1703 ; Bid = 1.17017
+20180523201500 : EntrerALAchat: Ordre d'achat #141 ouvert au prix du marché de 1.17030000 avec 0.10000000 Lots et StopLoss=1.16980000
+20180524060000 : Time = 2018.05.24 05:45:00 ; Bullish Engulfing Pattern  ; Ask = 1.17086 ; Bid = 1.17073
+20180524060000 : FermerLesPositionsAcheteuses: Profit/Perte pour position #73 (avant fermeture) = -183.90000000
+20180524060000 : EntrerALaVente: Ordre de vente #142 ouvert au prix du marché de 1.17073000 avec 0.10000000 Lots et StopLoss=1.17123000
+20180524064500 : Time = 2018.05.24 06:30:00 ; Bullish Engulfing Pattern  ; Ask = 1.17147 ; Bid = 1.17134
+20180524064500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #74 (avant fermeture) = -179.71000000
+20180524064500 : EntrerALaVente: Ordre de vente #143 ouvert au prix du marché de 1.17134000 avec 0.10000000 Lots et StopLoss=1.17184000
+20180524081500 : Time = 2018.05.24 08:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.17316 ; Bid = 1.17303
+20180524081500 : EntrerALaVente: Ordre de vente #144 ouvert au prix du marché de 1.17303000 avec 0.10000000 Lots et StopLoss=1.17353000
+20180524093000 : Time = 2018.05.24 09:15:00 ; Bearish Engulfing Pattern ; Ask = 1.17346 ; Bid = 1.17333
+20180524093000 : FermerLesPositionsVendeuses: Profit/Perte pour position #75 (avant fermeture) = 164.98000000
+20180524093000 : EntrerALAchat: Ordre d'achat #145 ouvert au prix du marché de 1.17346000 avec 0.10000000 Lots et StopLoss=1.17296000
+20180524104500 : Time = 2018.05.24 10:30:00 ; Bearish Engulfing Pattern ; Ask = 1.17207 ; Bid = 1.17194
+20180524104500 : FermerLesPositionsVendeuses: Profit/Perte pour position #76 (avant fermeture) = 172.77000000
+20180524104500 : EntrerALAchat: Ordre d'achat #146 ouvert au prix du marché de 1.17207000 avec 0.10000000 Lots et StopLoss=1.17157000
+20180524111500 : Time = 2018.05.24 11:00:00 ; Bearish Engulfing Pattern ; Ask = 1.17166 ; Bid = 1.17153
+20180524111500 : FermerLesPositionsVendeuses: Profit/Perte pour position #77 (avant fermeture) = 171.72000000
+20180524111500 : EntrerALAchat: Ordre d'achat #147 ouvert au prix du marché de 1.17166000 avec 0.10000000 Lots et StopLoss=1.17116000
+20180524130000 : Time = 2018.05.24 12:45:00 ; Bearish Engulfing Pattern ; Ask = 1.17277 ; Bid = 1.17264
+20180524130000 : EntrerALAchat: Ordre d'achat #148 ouvert au prix du marché de 1.17277000 avec 0.10000000 Lots et StopLoss=1.17227000
+20180524164500 : Time = 2018.05.24 16:30:00 ; Bearish Engulfing Pattern ; Ask = 1.17296 ; Bid = 1.17283
+20180524164500 : EntrerALAchat: Ordre d'achat #149 ouvert au prix du marché de 1.17296000 avec 0.10000000 Lots et StopLoss=1.17246000
+20180525004500 : Time = 2018.05.25 00:30:00 ; Bearish Engulfing Pattern ; Ask = 1.17194 ; Bid = 1.17181
+20180525004500 : EntrerALAchat: Ordre d'achat #150 ouvert au prix du marché de 1.17194000 avec 0.10000000 Lots et StopLoss=1.17144000
+20180525081500 : Time = 2018.05.25 08:00:00 ; Bullish Engulfing Pattern  ; Ask = 1.17019 ; Bid = 1.17006
+20180525081500 : FermerLesPositionsAcheteuses: Profit/Perte pour position #78 (avant fermeture) = -203.92000000
+20180525081500 : EntrerALaVente: Ordre de vente #151 ouvert au prix du marché de 1.17006000 avec 0.10000000 Lots et StopLoss=1.17056000
+20180525163000 : Time = 2018.05.25 16:15:00 ; Bearish Engulfing Pattern ; Ask = 1.16616 ; Bid = 1.16603
+20180525163000 : FermerLesPositionsVendeuses: Profit/Perte pour position #79 (avant fermeture) = 254.08000000
+20180525163000 : EntrerALAchat: Ordre d'achat #152 ouvert au prix du marché de 1.16616000 avec 0.10000000 Lots et StopLoss=1.16566000
+20180527235947 : Balance finale = 11461.83000000
